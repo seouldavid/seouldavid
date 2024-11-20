@@ -11,3 +11,10 @@ codingExperience : 6 month 한국 인재 개발원
 
 }
 ```
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/seouldavid"
+  width="600"
+  height="300"
+/>
+</a>
